@@ -172,3 +172,15 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+#model
+
+model/rotten_roberta_sentiment/config.json
+model/rotten_roberta_sentiment/model.safetensors
+model/rotten_roberta_sentiment/special_tokens_map.json
+model/rotten_roberta_sentiment/tokenizer.json
+model/rotten_roberta_sentiment/tokenizer_config.json
+model/rotten_roberta_sentiment/vocab.json
+model/rotten_roberta_sentiment/training_args.bin
+model/rotten_roberta_sentiment/merges.txt
